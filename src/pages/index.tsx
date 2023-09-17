@@ -2,8 +2,8 @@ import { Flex, Text } from '@chakra-ui/react';
 
 const Index = () => {
   return (
-    <Flex>
-      <Text>Unique - Project Management App</Text>
+    <Flex justifyContent="center">
+      <Text>OKK</Text>
     </Flex>
   );
 };
